@@ -1,2 +1,2 @@
 # pylog
-My logging library for my python projecty
+My logging library for my python projects
